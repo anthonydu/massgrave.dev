@@ -182,24 +182,27 @@ table {
   padding-top: 0 !important;
 }
 
-/* Fix admonition icons and styles */
-.alert {
+/* Ensure background colors for admonitions */
+[class*='admonition'],
+[class*='alert'] {
+  background-color: #f0f4f8 !important;
+  border-left: 6px solid var(--ifm-color-primary) !important;
   border-radius: 8px !important;
-  border: none !important;
   padding: 1.25rem !important;
   margin-bottom: 2rem !important;
+  color: inherit !important;
 }
 
-.alert__icon {
-  display: flex !important;
-  align-items: center !important;
+[class*='admonition-tip'],
+.alert--success {
+  background-color: #e6fffa !important;
+  border-left-color: #38b2ac !important;
 }
 
-.alert__icon svg {
-  width: 20px !important;
-  height: 20px !important;
-  fill: currentColor !important;
-  display: block !important;
+[class*='admonition-info'],
+.alert--info {
+  background-color: #ebf8ff !important;
+  border-left-color: #3182ce !important;
 }
 
 /* Style h4 headers to be more distinct */
@@ -221,4 +224,34 @@ h4:after {
   background: var(--ifm-color-primary-lightest);
   margin-left: 1rem;
   opacity: 0.5;
+}
+
+/* Subtle custom tip box with dark mode support */
+.custom-tip-box {
+  padding: 1rem 1.25rem !important;
+  border-left: 4px solid var(--ifm-color-primary) !important;
+  border-radius: 8px !important;
+  margin-bottom: 2rem !important;
+  background-color: rgba(164, 59, 141, 0.05) !important; /* Very subtle primary color */
+  font-size: 0.95rem !important;
+}
+
+[data-theme='dark'] .custom-tip-box {
+  background-color: rgba(255, 255, 255, 0.03) !important;
+  border-left-color: var(--ifm-color-primary-light) !important;
+}
+
+/* Info box style (Blue) */
+.info-box {
+  padding: 1rem 1.25rem !important;
+  border-left: 4px solid #3182ce !important;
+  border-radius: 8px !important;
+  margin-bottom: 2rem !important;
+  background-color: rgba(49, 130, 206, 0.05) !important;
+  font-size: 0.95rem !important;
+}
+
+[data-theme='dark'] .info-box {
+  background-color: rgba(255, 255, 255, 0.03) !important;
+  border-left-color: #63b3ed !important;
 }

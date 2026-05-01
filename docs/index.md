@@ -2,6 +2,25 @@
 id: index
 slug: /
 ---
+
+# Office 官方下载链接
+
+请根据您的操作系统选择对应的 Office 版本：
+
+### Windows 10 / 11
+- [Microsoft 365](/11/365)
+- [Office 2024](/11/2024)
+- [Office 2021](/11/2021)
+- [Office 2019](/11/2019)
+- [Office 2016](/11/2016)
+- [Office 2013](/11/2013)
+
+### Windows 7 / 8.1
+- [Office 2016](/8.1/2016)
+- [Office 2013](/8.1/2013)
+
+---
+
 # Office 官方下载链接
 
 这里提供的都是微软官方原版的 Office 安装包。它们都是零售版 (Retail)，并且自带最新的更新。
@@ -21,6 +40,10 @@ slug: /
 
 #### ❓ 选哪个版本最好？
 
+<div className="custom-tip-box">
+  <strong>💡 单独安装说明</strong>：如果你**只需要单独安装** Word、Excel 或 PPT，请选择 **Office 2024 等带年份的版本**（365 版本通常是全家桶）。
+</div>
+
 **强烈推荐 Microsoft 365**！它比 Office 2024 更好用，因为有很多“黑科技”：
 - **PPT 设计器**：点一下就能自动排版出精美的幻灯片。
 - **Word 智能编辑器**：帮你检查语法错误和润色文章。
@@ -28,6 +51,8 @@ slug: /
 - **更多素材**：一大堆高端字体、图标 and 图片随便用。
 
 **关键区别**：Microsoft 365 经常会增加新功能；而 Office 2024 基本只修补安全漏洞，不会有新花样。
+
+**细分版本怎么选？** 想要功能最全就选 **Microsoft 365 专业增强版**；只需要基础功能、电脑空间有限就选 **Microsoft 365 标准版**。
 
 #### ❌ 安装报错了怎么办？
 
@@ -39,305 +64,9 @@ slug: /
 	5. 等待 10-15 分钟清理完成，重启电脑后再试。
 - 还是装不上？换那个**离线安装包**试试，通常能解决 90% 的问题。
 
-#### 温馨提示
+<div className="info-box">
+  <strong>💡 温馨提示</strong>
 
--	**老电脑**（Win7 或 Win8.1）：请下载 **Office 2016 离线版**，新版本不支持旧系统。
-- 	**ARM 架构电脑**：如果在线安装包跑不动，请改用**离线版**。
--	**怎么选？** 想要功能最全就选 **Microsoft 365 专业增强版**；只需要基础功能、电脑空间有限就选 **Microsoft 365 标准版**。
-
-------------------------------------------------------------------------
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-## 简体中文 [zh-CN]
-<Tabs>
-
-<TabItem value="365" label="365" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Microsoft 365 专业增强版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/O365ProPlusRetail.img) |  
-| **Microsoft 365 标准版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365AppsBasicRetail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **Microsoft 365 商业版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/O365BusinessRetail.img) |  
-| **Microsoft 365 教育版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **Microsoft 365 家庭版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/O365HomePremRetail.img) |  
-</TabItem>
-
-<TabItem value="2024" label="2024" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2024** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Excel2024Retail.img) |  
-| **Office 2024 家用版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Home2024Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Home2024Retail.img) |  
-| **Office 2024 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusiness2024Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeBusiness2024Retail.img) |  
-| **PowerPoint 2024** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPoint2024Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/PowerPoint2024Retail.img) |  
-| **Office 2024 专业增强版** | Access, Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2024Retail.img) |  
-| **Word 2024** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Word2024Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Word2024Retail.img) |  
-</TabItem>
-
-<TabItem value="2021" label="2021" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2021** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Excel2021Retail.img) |  
-| **Office 2021 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusiness2021Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeBusiness2021Retail.img) |  
-| **Office 2021 家用及学生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudent2021Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeStudent2021Retail.img) |  
-| **Office 2021 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Personal2021Retail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **PowerPoint 2021** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPoint2021Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/PowerPoint2021Retail.img) |  
-| **Office 2021 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Professional2021Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Professional2021Retail.img) |  
-| **Office 2021 专业增强版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2021Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2021Retail.img) |  
-| **Office 2021 标准版** | Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Standard2021Retail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **Word 2021** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Word2021Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Word2021Retail.img) |  
-</TabItem>
-
-<TabItem value="2019" label="2019" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2019** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2019Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Excel2019Retail.img) |  
-| **Office 2019 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusiness2019Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeBusiness2019Retail.img) |  
-| **Office 2019 家用及学生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudent2019Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeStudent2019Retail.img) |  
-| **Office 2019 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Personal2019Retail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **PowerPoint 2019** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPoint2019Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/PowerPoint2019Retail.img) |  
-| **Office 2019 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Professional2019Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Professional2019Retail.img) |  
-| **Office 2019 专业增强版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2019Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2019Retail.img) |  
-| **Office 2019 标准版** | Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Standard2019Retail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **Word 2019** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Word2019Retail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Word2019Retail.img) |  
-</TabItem>
-
-<TabItem value="2016" label="2016" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2016** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ExcelRetail.img) |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessPipcRetail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeBusinessRetail.img) |  
-| **Office 2016 家用及学生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudentRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeStudentRetail.img) |  
-| **Office 2016 家用及学生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudentVNextRetail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalPipcRetail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalRetail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **PowerPoint 2016** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPointRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/PowerPointRetail.img) |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalPipcRetail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProfessionalRetail.img) |  
-| **Office 2016 专业增强版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlusRetail.img) |  
-| **Office 2016 标准版** | Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=StandardRetail&platform=x64&language=zh-cn&version=O16GA) |   不适用 |  
-| **Word 2016** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=WordRetail&platform=x64&language=zh-cn&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/WordRetail.img) |  
-</TabItem>
-
-<TabItem value="2013" label="2013" default>
-
-:::warning
-
-Office 2013 installation from Offline installer cannot be updated. Use online installer.
-
-:::
-
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2016** | Excel |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=zh-cn&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-cn/ExcelRetail.img) |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessPipcRetail&platform=x64&language=zh-cn&version=O15GA) |   不适用 |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessRetail&platform=x64&language=zh-cn&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-cn/HomeBusinessRetail.img) |  
-| **Office 2016 家用及学生版** | Excel, OneNote, PowerPoint, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudentRetail&platform=x64&language=zh-cn&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-cn/HomeStudentRetail.img) |  
-| **Microsoft 365 商业版** | Excel, Groove, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=zh-cn&version=O15GA) |   不适用 |  
-| **Microsoft 365 家庭版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=zh-cn&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-cn/O365HomePremRetail.img) |  
-| **Microsoft 365 专业增强版** | Access, Excel, Groove, InfoPath, Lync, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=zh-cn&version=O15GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalPipcRetail&platform=x64&language=zh-cn&version=O15GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalRetail&platform=x64&language=zh-cn&version=O15GA) |   不适用 |  
-| **PowerPoint 2016** | PowerPoint |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPointRetail&platform=x64&language=zh-cn&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-cn/PowerPointRetail.img) |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalPipcRetail&platform=x64&language=zh-cn&version=O15GA) |   不适用 |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x64&language=zh-cn&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-cn/ProfessionalRetail.img) |  
-| **Office 2016 专业增强版** | Access, Excel, Groove, InfoPath, Lync, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=zh-cn&version=O15GA) |   不适用 |  
-| **Office 2016 标准版** | Excel, Groove, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=StandardRetail&platform=x64&language=zh-cn&version=O15GA) |   不适用 |  
-| **Word 2016** | Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=WordRetail&platform=x64&language=zh-cn&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-cn/WordRetail.img) |  
-</TabItem>
-</Tabs>
-## 繁体中文 [zh-TW]
-<Tabs>
-
-<TabItem value="365" label="365" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Microsoft 365 专业增强版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/O365ProPlusRetail.img) |  
-| **Microsoft 365 标准版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365AppsBasicRetail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **Microsoft 365 商业版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/O365BusinessRetail.img) |  
-| **Microsoft 365 教育版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **Microsoft 365 家庭版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/O365HomePremRetail.img) |  
-</TabItem>
-
-<TabItem value="2024" label="2024" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2024** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Excel2024Retail.img) |  
-| **Office 2024 家用版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Home2024Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Home2024Retail.img) |  
-| **Office 2024 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusiness2024Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/HomeBusiness2024Retail.img) |  
-| **PowerPoint 2024** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPoint2024Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/PowerPoint2024Retail.img) |  
-| **Office 2024 专业增强版** | Access, Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/ProPlus2024Retail.img) |  
-| **Word 2024** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Word2024Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Word2024Retail.img) |  
-</TabItem>
-
-<TabItem value="2021" label="2021" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2021** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Excel2021Retail.img) |  
-| **Office 2021 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusiness2021Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/HomeBusiness2021Retail.img) |  
-| **Office 2021 家用及學生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudent2021Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/HomeStudent2021Retail.img) |  
-| **Office 2021 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Personal2021Retail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **PowerPoint 2021** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPoint2021Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/PowerPoint2021Retail.img) |  
-| **Office 2021 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Professional2021Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Professional2021Retail.img) |  
-| **Office 2021 专业增强版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2021Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/ProPlus2021Retail.img) |  
-| **Office 2021 標準版** | Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Standard2021Retail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **Word 2021** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Word2021Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Word2021Retail.img) |  
-</TabItem>
-
-<TabItem value="2019" label="2019" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2019** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2019Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Excel2019Retail.img) |  
-| **Office 2019 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusiness2019Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/HomeBusiness2019Retail.img) |  
-| **Office 2019 家用及學生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudent2019Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/HomeStudent2019Retail.img) |  
-| **Office 2019 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Personal2019Retail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **PowerPoint 2019** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPoint2019Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/PowerPoint2019Retail.img) |  
-| **Office 2019 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Professional2019Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Professional2019Retail.img) |  
-| **Office 2019 专业增强版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2019Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/ProPlus2019Retail.img) |  
-| **Office 2019 標準版** | Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Standard2019Retail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **Word 2019** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Word2019Retail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Word2019Retail.img) |  
-</TabItem>
-
-<TabItem value="2016" label="2016" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2016** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/ExcelRetail.img) |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessPipcRetail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/HomeBusinessRetail.img) |  
-| **Office 2016 家用及學生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudentRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/HomeStudentRetail.img) |  
-| **Office 2016 家用及學生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudentVNextRetail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalPipcRetail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalRetail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **PowerPoint 2016** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPointRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/PowerPointRetail.img) |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalPipcRetail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/ProfessionalRetail.img) |  
-| **Office 2016 专业增强版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/ProPlusRetail.img) |  
-| **Office 2016 標準版** | Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=StandardRetail&platform=x64&language=zh-tw&version=O16GA) |   不适用 |  
-| **Word 2016** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=WordRetail&platform=x64&language=zh-tw&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/WordRetail.img) |  
-</TabItem>
-
-<TabItem value="2013" label="2013" default>
-
-:::warning
-
-Office 2013 installation from Offline installer cannot be updated. Use online installer.
-
-:::
-
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2016** | Excel |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=zh-tw&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-tw/ExcelRetail.img) |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessPipcRetail&platform=x64&language=zh-tw&version=O15GA) |   不适用 |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessRetail&platform=x64&language=zh-tw&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-tw/HomeBusinessRetail.img) |  
-| **Office 2016 家用及學生版** | Excel, OneNote, PowerPoint, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudentRetail&platform=x64&language=zh-tw&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-tw/HomeStudentRetail.img) |  
-| **Microsoft 365 商业版** | Excel, Groove, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=zh-tw&version=O15GA) |   不适用 |  
-| **Microsoft 365 家庭版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=zh-tw&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-tw/O365HomePremRetail.img) |  
-| **Microsoft 365 专业增强版** | Access, Excel, Groove, InfoPath, Lync, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=zh-tw&version=O15GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalPipcRetail&platform=x64&language=zh-tw&version=O15GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalRetail&platform=x64&language=zh-tw&version=O15GA) |   不适用 |  
-| **PowerPoint 2016** | PowerPoint |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPointRetail&platform=x64&language=zh-tw&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-tw/PowerPointRetail.img) |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalPipcRetail&platform=x64&language=zh-tw&version=O15GA) |   不适用 |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x64&language=zh-tw&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-tw/ProfessionalRetail.img) |  
-| **Office 2016 专业增强版** | Access, Excel, Groove, InfoPath, Lync, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=zh-tw&version=O15GA) |   不适用 |  
-| **Office 2016 標準版** | Excel, Groove, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=StandardRetail&platform=x64&language=zh-tw&version=O15GA) |   不适用 |  
-| **Word 2016** | Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=WordRetail&platform=x64&language=zh-tw&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-tw/WordRetail.img) |  
-</TabItem>
-</Tabs>
-## 英语 [en-US]
-<Tabs>
-
-<TabItem value="365" label="365" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Microsoft 365 专业增强版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365ProPlusRetail.img) |  
-| **Microsoft 365 标准版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365AppsBasicRetail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **Microsoft 365 商业版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365BusinessRetail.img) |  
-| **Microsoft 365 教育版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **Microsoft 365 家庭版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365HomePremRetail.img) |  
-</TabItem>
-
-<TabItem value="2024" label="2024" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2024** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Excel2024Retail.img) |  
-| **Office 2024 家用版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Home2024Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Home2024Retail.img) |  
-| **Office 2024 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusiness2024Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/HomeBusiness2024Retail.img) |  
-| **PowerPoint 2024** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPoint2024Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/PowerPoint2024Retail.img) |  
-| **Office 2024 专业增强版** | Access, Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2024Retail.img) |  
-| **Word 2024** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Word2024Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Word2024Retail.img) |  
-</TabItem>
-
-<TabItem value="2021" label="2021" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2021** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Excel2021Retail.img) |  
-| **Office 2021 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusiness2021Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/HomeBusiness2021Retail.img) |  
-| **Office 2021 家用及学生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudent2021Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/HomeStudent2021Retail.img) |  
-| **Office 2021 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Personal2021Retail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **PowerPoint 2021** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPoint2021Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/PowerPoint2021Retail.img) |  
-| **Office 2021 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Professional2021Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Professional2021Retail.img) |  
-| **Office 2021 专业增强版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2021Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img) |  
-| **Office 2021 标准版** | Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Standard2021Retail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **Word 2021** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Word2021Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Word2021Retail.img) |  
-</TabItem>
-
-<TabItem value="2019" label="2019" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2019** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2019Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Excel2019Retail.img) |  
-| **Office 2019 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusiness2019Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/HomeBusiness2019Retail.img) |  
-| **Office 2019 家用及学生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudent2019Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/HomeStudent2019Retail.img) |  
-| **Office 2019 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Personal2019Retail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **PowerPoint 2019** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPoint2019Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/PowerPoint2019Retail.img) |  
-| **Office 2019 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Professional2019Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Professional2019Retail.img) |  
-| **Office 2019 专业增强版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2019Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img) |  
-| **Office 2019 标准版** | Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Standard2019Retail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **Word 2019** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Word2019Retail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Word2019Retail.img) |  
-</TabItem>
-
-<TabItem value="2016" label="2016" default>
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2016** | Excel, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ExcelRetail.img) |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessPipcRetail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/HomeBusinessRetail.img) |  
-| **Office 2016 家用及学生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudentRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/HomeStudentRetail.img) |  
-| **Office 2016 家用及学生版** | Excel, OneNote, PowerPoint, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudentVNextRetail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalPipcRetail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalRetail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **PowerPoint 2016** | PowerPoint, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPointRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/PowerPointRetail.img) |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalPipcRetail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProfessionalRetail.img) |  
-| **Office 2016 专业增强版** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlusRetail.img) |  
-| **Office 2016 标准版** | Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=StandardRetail&platform=x64&language=en-us&version=O16GA) |   不适用 |  
-| **Word 2016** | Word, OneDrive |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=WordRetail&platform=x64&language=en-us&version=O16GA) |  [链接](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/WordRetail.img) |  
-</TabItem>
-
-<TabItem value="2013" label="2013" default>
-
-:::warning
-
-Office 2013 installation from Offline installer cannot be updated. Use online installer.
-
-:::
-
-| 产品 | 包含的组件 | 在线安装 | 离线安装 |
-|--|--|--|--|
-| **Excel 2016** | Excel |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=en-us&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/ExcelRetail.img) |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessPipcRetail&platform=x64&language=en-us&version=O15GA) |   不适用 |  
-| **Office 2016 家用及中小企业版** | Excel, OneNote, Outlook, PowerPoint, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeBusinessRetail&platform=x64&language=en-us&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/HomeBusinessRetail.img) |  
-| **Office 2016 家用及学生版** | Excel, OneNote, PowerPoint, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=HomeStudentRetail&platform=x64&language=en-us&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/HomeStudentRetail.img) |  
-| **Microsoft 365 商业版** | Excel, Groove, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=en-us&version=O15GA) |   不适用 |  
-| **Microsoft 365 家庭版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=en-us&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/O365HomePremRetail.img) |  
-| **Microsoft 365 专业增强版** | Access, Excel, Groove, InfoPath, Lync, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O15GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalPipcRetail&platform=x64&language=en-us&version=O15GA) |   不适用 |  
-| **Office 2016 个人版** | Excel, Outlook, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PersonalRetail&platform=x64&language=en-us&version=O15GA) |   不适用 |  
-| **PowerPoint 2016** | PowerPoint |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PowerPointRetail&platform=x64&language=en-us&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/PowerPointRetail.img) |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalPipcRetail&platform=x64&language=en-us&version=O15GA) |   不适用 |  
-| **Office 2016 专业版** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x64&language=en-us&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/ProfessionalRetail.img) |  
-| **Office 2016 专业增强版** | Access, Excel, Groove, InfoPath, Lync, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=en-us&version=O15GA) |   不适用 |  
-| **Office 2016 标准版** | Excel, Groove, OneNote, Outlook, PowerPoint, Publisher, Word |  [链接 ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=StandardRetail&platform=x64&language=en-us&version=O15GA) |   不适用 |  
-| **Word 2016** | Word |  [链接](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=WordRetail&platform=x64&language=en-us&version=O15GA) |  [链接](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/WordRetail.img) |  
-</TabItem>
-</Tabs>
+  - **老电脑**（Win7 或 Win8.1）：请下载 **Office 2016 离线版**，新版本不支持旧系统。
+  - **ARM 架构电脑**：如果在线安装包跑不动，请改用**离线版**。
+</div>
