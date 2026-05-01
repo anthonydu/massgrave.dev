@@ -171,3 +171,54 @@ table {
     display: none;
   }
 }
+
+/* Hide only the navbar and breadcrumbs */
+.navbar,
+.theme-doc-breadcrumbs {
+  display: none !important;
+}
+
+.main-wrapper {
+  padding-top: 0 !important;
+}
+
+/* Fix admonition icons and styles */
+.alert {
+  border-radius: 8px !important;
+  border: none !important;
+  padding: 1.25rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.alert__icon {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.alert__icon svg {
+  width: 20px !important;
+  height: 20px !important;
+  fill: currentColor !important;
+  display: block !important;
+}
+
+/* Style h4 headers to be more distinct */
+h4 {
+  font-size: 1.3rem !important;
+  font-weight: 800 !important;
+  color: var(--ifm-color-primary) !important;
+  margin-top: 2.5rem !important;
+  margin-bottom: 1rem !important;
+  letter-spacing: 0.5px !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+h4:after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--ifm-color-primary-lightest);
+  margin-left: 1rem;
+  opacity: 0.5;
+}
