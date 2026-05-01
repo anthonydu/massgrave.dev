@@ -1,4 +1,9 @@
 ---
+slug: /
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # Office 官方下载链接
 
@@ -75,9 +80,6 @@
 </div>
 
 ---
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 ## 简体中文
 
