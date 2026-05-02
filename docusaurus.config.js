@@ -13,6 +13,7 @@ const config = {
 
   onBrokenLinks: 'throw',
   trailingSlash: false,
+  noIndex: true,
 
   future: {
     v4: true,

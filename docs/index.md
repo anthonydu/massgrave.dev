@@ -28,8 +28,8 @@ import TabItem from '@theme/TabItem';
 - [Office 2013](/11/2013)
 
 #### Windows 7 / 8.1
-- [Office 2016](/8.1/2016) — 旧系统首选
-- [Office 2013](/8.1/2013)
+- [Office 2016](/8/2016) — 旧系统首选
+- [Office 2013](/8/2013)
 
 ---
 
