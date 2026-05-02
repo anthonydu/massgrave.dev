@@ -2,7 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Office Download',
+  title: '懿琪数科优选@淘宝',
   tagline: 'Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.',
   favicon: 'img/favicon.ico',
   baseUrl: '/',
@@ -67,9 +67,9 @@ const config = {
       },
       image: 'img/card.png',
       navbar: {
-        title: 'Office Download',
+        title: '懿琪数科优选@淘宝',
         logo: {
-          alt: 'Office Download',
+          alt: '懿琪数科优选@淘宝',
           src: 'img/logo.png',
         },
         items: [],
