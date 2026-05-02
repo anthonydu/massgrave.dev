@@ -2,7 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MAS',
+  title: 'Office Download',
   tagline: 'Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.',
   favicon: 'img/favicon.ico',
   baseUrl: '/',
@@ -66,9 +66,9 @@ const config = {
       },
       image: 'img/card.png',
       navbar: {
-        title: 'MAS',
+        title: 'Office Download',
         logo: {
-          alt: 'MAS',
+          alt: 'Office Download',
           src: 'img/logo.png',
         },
         items: [],
