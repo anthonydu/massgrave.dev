@@ -5,21 +5,21 @@ slug: /
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Office 官方下载链接
+# Office 下载链接
 
 这里提供的都是微软官方原版的 Office 安装包。它们都是零售版 (Retail)，并且自带最新的更新。
 
 <div className="info-box">
   <strong>🖥️ 操作系统支持</strong>
   
-  - **Windows 10 / 11**：支持所有版本（推荐 365 或 2024）。
-  - **Windows 7 / 8.1**：仅支持 **Office 2016** 及更早版本，且必须使用**离线版**。
+  - **Win 10 / 11**：支持所有版本（推荐 365 或 2024）。
+  - **Win 7 / 8 / 8.1**：仅支持 **Office 2016** 及更早版本，且必须使用**离线版**。
 </div>
 
 ### 📂 快速跳转至指定版本
 如果您不想在首页翻阅，可以直接进入版本专页：
 
-#### Windows 10 / 11
+#### Win 10 / 11
 - [Microsoft 365](/11/365) — **推荐：功能最全，带 AI 助手**
 - [Office 2024](/11/2024) — 最新买断版
 - [Office 2021](/11/2021)
@@ -27,7 +27,7 @@ import TabItem from '@theme/TabItem';
 - [Office 2016](/11/2016)
 - [Office 2013](/11/2013)
 
-#### Windows 7 / 8.1
+#### Win 7 / 8 / 8.1
 - [Office 2016](/8/2016) — 旧系统首选
 - [Office 2013](/8/2013)
 
