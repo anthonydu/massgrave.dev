@@ -27,4 +27,15 @@ import TabItem from '@theme/TabItem';
 - Office 2013 (Win 10): /11/u6k4p9x3
 - Office 2016 (Win 7/8): /8/a1s2d3f4
 - Office 2013 (Win 7/8): /8/z5x6c7v8
+
+Mac 版本：
+- Office for Mac (macOS 14+): /mac/k8z4x2p5
+- Office for Mac (macOS 13): /mac/m7r3w1v9
+- Office for Mac (macOS 12): /mac/j8f6n9t2
+- Office for Mac (macOS 11): /mac/s7h5b3q4
+- Office for Mac (macOS 10.15): /mac/v2g0d1y8
+- Office for Mac (macOS 10.14): /mac/x3p9k4u6
+- Office for Mac (macOS 10.13): /mac/f4d3s2a1
+- Office for Mac (macOS 10.12): /mac/v8c7x6z5
+- Office for Mac (macOS 10.11/10): /mac/b2n3m4l5
 */}
