@@ -23,8 +23,8 @@ hide_table_of_contents: true
 
 | 软件名称                  | 包含的组件 | 下载链接                                              |
 |:-----------------------------|:---|:--------------------------------------------------|
+| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | [链接](https://go.microsoft.com/fwlink/p/?linkid=525133)  ❤️ |
 | Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | [链接](https://go.microsoft.com/fwlink/p/?linkid=2009112) |
-| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | [链接](https://go.microsoft.com/fwlink/p/?linkid=525133)  |
 
 #### 📦 单独组件 (Word, Excel, PPT)
 

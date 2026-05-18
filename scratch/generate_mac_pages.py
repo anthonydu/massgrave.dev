@@ -31,8 +31,8 @@ pages = [
         "desc": "适用于 macOS Tahoe (26), Sequoia (15), Sonoma (14)",
         "suites": """| 软件名称                  | 包含的组件 | 下载链接                                              |
 |:-----------------------------|:---|:--------------------------------------------------|
-| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://go.microsoft.com/fwlink/p/?linkid=2009112 |
-| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://go.microsoft.com/fwlink/p/?linkid=525133  |""",
+| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://go.microsoft.com/fwlink/p/?linkid=525133  ❤️ |
+| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://go.microsoft.com/fwlink/p/?linkid=2009112 |""",
         "standalone": """| 软件名称                  | 包含的组件 | 下载链接                                              |
 |:-----------------------------|:---|:--------------------------------------------------|
 | Word                         | Word, OneDrive | https://go.microsoft.com/fwlink/p/?linkid=525134  |
@@ -49,8 +49,8 @@ pages = [
         "desc": "最高支持版本：16.101 (2021 / 2024 版)",
         "suites": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                                    |
 |:-----------------------------|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.101.25091314_BusinessPro_Installer.pkg |
-| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.101.25091314_Installer.pkg             |""",
+| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.101.25091314_Installer.pkg             ❤️ |
+| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.101.25091314_BusinessPro_Installer.pkg |""",
         "standalone": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                                    |
 |:-----------------------------|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Word                         | Word, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.101.25091314_Updater.pkg                         |
@@ -67,8 +67,8 @@ pages = [
         "desc": "最高支持版本：16.88 (2021 版)",
         "suites": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                                    |
 |:-----------------------------|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_BusinessPro_Installer.pkg |
-| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_Installer.pkg             |""",
+| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_Installer.pkg             ❤️ |
+| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_BusinessPro_Installer.pkg |""",
         "standalone": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                                    |
 |:-----------------------------|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Word                         | Word, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.88.24081116_Updater.pkg                         |
@@ -85,8 +85,8 @@ pages = [
         "desc": "最高支持版本：16.77 (2021/2019 版)",
         "suites": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                                       |
 |:-----------------------------|:---|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_BusinessPro_Installer.pkg |
-| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg             |""",
+| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg             ❤️ |
+| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_BusinessPro_Installer.pkg |""",
         "standalone": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                                    |
 |:-----------------------------|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Word                         | Word, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.77.23091003_Updater.pkg                         |
@@ -103,8 +103,8 @@ pages = [
         "desc": "最高支持版本：16.66.1 (2021/2019 版)",
         "suites": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                               |
 |:-----------------------------|:---|:---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_BusinessPro_Installer.pkg |
-| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg             |""",
+| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg             ❤️ |
+| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_BusinessPro_Installer.pkg |""",
         "standalone": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                               |
 |:-----------------------------|:---|:---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Word                         | Word, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.66.22101101_Updater.pkg                 |
@@ -121,8 +121,8 @@ pages = [
         "desc": "最高支持版本：16.54 (2021/2019 版)",
         "suites": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                               |
 |:-----------------------------|:---|:---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_BusinessPro_Installer.pkg |
-| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_Installer.pkg             |""",
+| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_Installer.pkg             ❤️ |
+| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_BusinessPro_Installer.pkg |""",
         "standalone": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                               |
 |:-----------------------------|:---|:---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Word                         | Word, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.54.21101001_Updater.pkg                 |
