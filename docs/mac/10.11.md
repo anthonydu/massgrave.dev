@@ -13,9 +13,8 @@ hide_table_of_contents: true
 <div className="info-box">
   <strong>💡 注意</strong>
 
-  本网页仅展示软件本体下载链接，下载激活工具<strong><span style={{color: "#ff4d4f"}}>请查看发货内容中的激活链接</span></strong>。
+  本网页仅展示软件本体下载链接，激活教学<strong><span style={{color: "#ff4d4f"}}>请查看我们提供的教程文档</span></strong>。
 
-  - 激活工具（序列化激活程序）提取自官方 ISO 文件。这些激活文件通常仅提供给[付费订阅用户（批量许可）](https://learn.microsoft.com/zh-cn/microsoft-365-apps/mac/volume-license-serializer)，但任何人都可以使用它来激活 Office。
   - 此激活方法与微软官方过程完全一致，不包含任何第三方破解程序。
 </div>
 
