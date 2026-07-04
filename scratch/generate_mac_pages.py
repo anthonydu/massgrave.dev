@@ -64,18 +64,18 @@ pages = [
         "id": "mac_12",
         "slug": "/mac/j8f6n9t2",
         "title": "Office for Mac (macOS 12 Monterey)",
-        "desc": "最高支持版本：16.88 (2021 版)",
-        "suites": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                                    |
-|:-----------------------------|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_Installer.pkg             ❤️ |
-| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_BusinessPro_Installer.pkg |""",
+        "desc": "最高支持版本：16.77 (2021/2019 版)",
+        "suites": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                                       |
+|:-----------------------------|:---|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Office 全家桶 (不含 Teams) | Word, Excel, PowerPoint, Outlook, OneNote, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg             ❤️ |
+| Office 全家桶 (含 Teams)    | Word, Excel, PowerPoint, Outlook, OneNote, Teams, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_BusinessPro_Installer.pkg |""",
         "standalone": """| 软件名称                  | 包含的组件 | 下载链接                                                                                                                                                    |
 |:-----------------------------|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Word                         | Word, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.88.24081116_Updater.pkg                         |
-| Excel                        | Excel, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.88.24081116_Updater.pkg                        |
-| PowerPoint                   | PowerPoint, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.88.24081116_Updater.pkg                   |
-| Outlook                      | Outlook, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.88.24081116_Updater.pkg                      |
-| OneNote                      | OneNote, OneDrive | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.88.24081116_Updater.pkg                      |"""
+| Word                         | Word, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.77.23091003_Updater.pkg                         |
+| Excel                        | Excel, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.77.23091003_Updater.pkg                        |
+| PowerPoint                   | PowerPoint, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.77.23091003_Updater.pkg                   |
+| Outlook                      | Outlook, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.77.23091003_Updater.pkg                      |
+| OneNote                      | OneNote, OneDrive | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.77.23091003_Updater.pkg                      |"""
     },
     {
         "filename": "11.md",
